@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-persona",
-    "name": "Persona",
-    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "id": "nodebb-theme-id",
+    "name": "NodeBB ID",
+    "description": "The default theme for NodeBB Indonesia. Uses a standard approach to forum design. Based on Persona",
+    "url": "https://github.com/ngadmincom/nodebb-theme-id",
     "screenshot": "screenshot.png"
 }
